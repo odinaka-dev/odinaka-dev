@@ -1,0 +1,264 @@
+/*The universal rule begins the stylesheet of this design- changes can be made from this stylesheet*/
+* {
+    list-style-type: none;
+    text-decoration: none;
+}
+body {
+    font-family: system-ui;
+    font-size: 16px;
+    margin: 0px 50px;
+}
+nav {
+    color: black;
+}
+label.logo{
+    font-size: 25px;
+    font-weight: bold;
+    padding: 0 50px;
+    line-height: 80px;
+}
+nav ul {
+    float: right;
+    margin-right: 40px;
+    align-items: center;
+    margin-top: 30px;
+}
+nav ul li {
+    display: inline;
+    margin-right: 30px;
+}
+nav ul li a {
+    color: black;
+    text-transform: uppercase;
+}
+a.active,a:hover {
+    border-bottom: 1px solid crimson;
+    color: crimson;
+    border-radius: 0px;
+    padding: 10px;
+    transition: all .5s;
+}
+a.activity {
+    color: white;
+    background-color: crimson;
+    padding: 10px 15px;
+    border-radius: 7px;
+}
+a.activity:hover {
+    color: crimson;
+    background-color: white;
+    border: 2px solid crimson;
+    transition: .5s all;
+}
+/*body tag begins from  here in the stylesheet, changes can be made from this stylesheet*/
+.featured {
+    display: inline-flex;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.bodytag h2 {
+    color: darkslateblue;
+    font-size: 35px;
+    margin-top: 45px;
+}
+.bodytag2 img {
+    width: 600px;
+    margin-left: 150px;
+}
+.part {
+    position: absolute;
+    background-color: darkslateblue;
+}
+.bodytag p {
+    color: grey;
+    line-height: 1.5em;
+    margin-top: 20px;
+}
+.tag{
+    font-size: 18px;
+    margin-top: 50px;
+}
+.spin1 {
+    color: white;
+    background-color: rgb(93, 81, 173);
+    padding: 10px 25px;
+    border-radius: 5px;
+    /* font-weight: bold; */
+    font-size: 18px;
+}
+.spin1:hover {
+    color: deepskyblue;
+    border: 2px solid deepskyblue;
+    background-color: white;
+    box-shadow: 0px  0px 4px 5px 9px rgb(75, 72, 72);
+    transition: .5s;
+}
+.spin2 {
+    margin-left: 30px;
+    background-color: lightgrey;
+    color: grey;
+    /* font-weight: bold; */
+    font-size: 18px;
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+.spin2:hover {
+    color: darkslategray;
+    border: 2px solid darkslategray;
+    background: white;
+    box-shadow: 0px 0px 4px 5px 10px darkslategray;
+    transition: .5s;
+}
+.subheading {
+    text-align: center;
+    margin-top: 40px;
+}
+.subheading h1 {
+    color: rgb(37, 31, 77);
+}
+.subheading p {
+    color: grey;
+    margin-top: 30px;
+    line-height: 1.7em;
+}
+.subheading ul {
+    display: inline-flex;
+    border-bottom: 1px solid gray;
+    padding-bottom: 10px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.subheading ul ol {
+    margin-right: 150px;
+    text-transform: capitalize;
+    padding-bottom: 0px;
+}
+.subheading ul ol a {
+    color: rgb(44, 43, 43);
+}
+.subheading ul ol  a:hover {
+    color: black;
+    font-weight: bold;
+    border-bottom: 2px solid crimson;
+}
+.grid {
+    display: inline-flex;
+    margin-top: 100px;
+    padding: 0 100px;
+}
+.subtag img {
+    width: 550px;
+}
+.subtag2 {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.subtag2 h1 {
+    color: darkslateblue;
+    font-size: 35px;
+}
+.subtag2 p {
+    color: grey;
+    font-size: 16px;
+    line-height: 1.5em;
+}
+
+.spain p{
+    color: white;
+    background-color: rgb(55, 55, 182);
+    display: inline-block;
+    padding: 10px 15px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.spain p:hover {
+    color: darkslateblue;
+    background: white;
+    border: 2px solid darkslateblue;
+    border-radius: 5px;
+    transition: .6s;
+}
+.browser {
+    margin-top: 100px;
+}
+.browser h1 {
+    text-align: center;
+    font-size: 35px;
+    color: rgb(46, 38, 95);
+}
+.browser p {
+    text-align: center;
+    margin-top: 20px;
+    color: gray;
+    line-height: 2em;
+}
+
+/*practice for adding a grid system to the css design stylesheet*/
+.browserstyle {
+      text-align: center;
+}
+.chrome{
+    text-align: center;
+    background: rgb(238, 236, 236);
+    display: inline-block;
+    padding: 15px 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px 1px darkslategray;
+    box-sizing: border-box;
+    margin-right: 40px;
+
+    position: relative;
+}
+.Mozilla {
+    text-align: center;
+    background: rgb(238, 236, 236);
+    display: inline-block;
+    padding: 15px 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px 1px darkslategray;
+    box-sizing: border-box;
+    margin-right: 40px;
+
+    position: relative;
+}
+.opera {
+    text-align: center;
+    background: rgb(238, 236, 236);
+    display: inline-block;
+    padding: 15px 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px 1px darkslategray;
+    box-sizing: border-box;
+
+    position: relative;
+}
+
+.chrome h2, .Mozilla h2, .opera h2 {
+    color: rgb(90, 87, 87);
+    font-size: 20px;
+}
+.chrome p, .Mozilla p, .opera p {
+    color: gray;
+    font-size: 16px;
+    display: block;
+}
+.chrome span, .Mozilla span, .opera span {
+    background-color: darkslateblue;
+    color: white;
+    text-transform: capitalize;
+    padding: 10px 15px;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    display: block;
+    margin-top: 50px;
+}
+.chrome span:hover, .opera span:hover, .Mozilla span:hover {
+    color: darkslateblue;
+    border: 2px solid darkslateblue;
+    background-color: white;
+    transition: .5s;
+}
+/* .chrome, .Mozilla, .opera {
+    box-shadow: ;
+} */
+
