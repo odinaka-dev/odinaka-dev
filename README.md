@@ -1,6 +1,6 @@
 # Hey, I'm John 👋
 
-### Full Stack Developer | React · Node.js · TypeScript
+### Full Stack Developer | React · Node.js · TypeScript · NextJs · ReactNative · MaterialUI
 
 I build fast, scalable web applications with clean code and great UX.
 
@@ -12,6 +12,7 @@ I build fast, scalable web applications with clean code and great UX.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![NextJs](https://img.shields.io/badge/-Supabase-red?style=flat-square&logo=supabase&logoColor=white)
 
 ---
 
