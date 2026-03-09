@@ -79,7 +79,7 @@ Beyond code, I'm passionate about collaborative problem-solving and actively see
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=odinaka-dev&theme=tokyonight&hide_border=true" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=odinaka-dev" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
