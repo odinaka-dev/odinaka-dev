@@ -22,13 +22,13 @@ const uchechukwu = {
   location: "Nigeria 🇳🇬",
   stack: ["MongoDB", "Express.js", "React.js", "Node.js"],
   languages: ["TypeScript", "JavaScript", "SQL"],
-  currentlyBuilding: ["Agroheal 🌱", "Myrtle 💰"],
+  currentlyBuilding: ["Octopus MFB", "Myrtle Asset Management & Trust limited💰"],
   openTo: ["Open Source", "AI/ML Projects", "Hackathons", "Work Placements"],
   funFact: "I debug with console.log and I'm not ashamed 😄",
 };
 ```
 
-I'm a Full-Stack Developer with strong expertise in the **MERN stack** and hands-on experience with modern web technologies. I build fast, scalable, and user-friendly applications — from e-commerce platforms and movie apps to AI-powered web solutions and fintech products.
+I'm a Full-Stack Developer with strong expertise in the **MERN stack** and hands-on experience with modern web technologies, web application, and mobile application. I build fast, scalable, and user-friendly applications — from e-commerce platforms and movie apps to AI-powered web solutions and fintech products.
 
 Beyond code, I'm passionate about collaborative problem-solving and actively seeking opportunities in **open source**, **AI/ML projects**, and **hackathons** to grow and make an impact.
 
@@ -92,16 +92,20 @@ Beyond code, I'm passionate about collaborative problem-solving and actively see
 
 | Project | Description | Stack | Live |
 |---------|-------------|-------|------|
-| [Agroheal](https://github.com/YOUR_USERNAME/agroheal) | Farming platform for Nigerian farmers — subscriptions, courses & farm slots | React, Supabase, TypeScript | [agroheal.solutions](https://agroheal.solutions) |
+| [Myrtle](https://www.myrtleng.com) | Investment & wallet app with real-time transactions | React, Chakra UI, TanStack Query | Live |
 | [Myrtle](https://github.com/YOUR_USERNAME/myrtle) | Investment & wallet app with real-time transactions | React, Chakra UI, TanStack Query | Live |
-| E-Commerce Platform | Full-featured store with cart, auth & payments | MERN, Redux | Soon |
-| Movie App | Browse & search movies with live API data | React, TypeScript | Soon |
+| [Giddaa](https://www.giddaa.com) | worked at giddaa (a proptech organization) as a frontend developer, migrated their entire admin legacy codebase (refactored) to what is being used now. | Nextjs, React, Chakra UI, TanStack Query | Live |
+| [GridEat](https://www.grideats.com) | Grideat is a food delivery platform that connects campus vendors, students and student delivery agents. | Nextjs, React, Chakra UI, TanStack Query | Live |
+| [Finote](https://finote.app) | fInote is a record mobile application project I built to record loans, income, expenses, budgets and the likes | ReactNative, React, Chakra UI, TanStack Query | Live |
+| [Finote](https://www.grideats.com) | Investment & wallet app with real-time transactions | React, Chakra UI, TanStack Query | Live |
+| [octopus mfb]() | Currently working on building a fintech application for an MFB organization, with features like transfer, loan, deposits and all mobile banking features | React, Chakra UI, TanStack Query | Live |
 
 ---
 
 ## Currently Exploring
 
 - 📱 React Native for cross-platform mobile
+- 📱 AWS/Cloud engineering & Devops
 - 🏗 System design & scalable architecture
 
 ---
@@ -110,10 +114,10 @@ Beyond code, I'm passionate about collaborative problem-solving and actively see
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uchechukwu-peter-6aab0b241/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO.com)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uchechukwupeter22@gmail.com)
 
 </div>
 
