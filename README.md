@@ -93,11 +93,9 @@ Beyond code, I'm passionate about collaborative problem-solving and actively see
 | Project | Description | Stack | Live |
 |---------|-------------|-------|------|
 | [Myrtle](https://www.myrtleng.com) | Investment & wallet app with real-time transactions | React, Chakra UI, TanStack Query | Live |
-| [Myrtle](https://github.com/YOUR_USERNAME/myrtle) | Investment & wallet app with real-time transactions | React, Chakra UI, TanStack Query | Live |
 | [Giddaa](https://www.giddaa.com) | worked at giddaa (a proptech organization) as a frontend developer, migrated their entire admin legacy codebase (refactored) to what is being used now. | Nextjs, React, Chakra UI, TanStack Query | Live |
 | [GridEat](https://www.grideats.com) | Grideat is a food delivery platform that connects campus vendors, students and student delivery agents. | Nextjs, React, Chakra UI, TanStack Query | Live |
 | [Finote](https://finote.app) | fInote is a record mobile application project I built to record loans, income, expenses, budgets and the likes | ReactNative, React, Chakra UI, TanStack Query | Live |
-| [Finote](https://www.grideats.com) | Investment & wallet app with real-time transactions | React, Chakra UI, TanStack Query | Live |
 | [octopus mfb]() | Currently working on building a fintech application for an MFB organization, with features like transfer, loan, deposits and all mobile banking features | React, Chakra UI, TanStack Query | Live |
 
 ---
